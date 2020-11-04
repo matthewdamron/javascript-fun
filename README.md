@@ -6,4 +6,4 @@ Website with Java to show how to change shapes, color, size, fading.
 
 ## Deployment
 
-[Java Fun Website](https://morgareth.github.io/javascript-fun/)
+[Java Fun Website](https://matthewdamron.github.io/javascript-fun/)
